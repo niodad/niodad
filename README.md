@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Peter Nuyts
 - 👀 I’m interested in C# and Angular
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate agile Full-Stack .Net Projects.
+- 🌱 I’m currently learning Blazor.
+- 💞️ I’m looking to collaborate in agile Full-Stack .Net Projects.
 
 <!---
 niodad/niodad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
